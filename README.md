@@ -9,3 +9,7 @@ React 19, TypeScript, Vite, Tailwind CSS 4, React Router, TanStack Query ve Axio
 ## Yöntem
 
 Arayüz yeniden kullanılabilir bileşenlere ve sayfalara ayrılmıştır. Veriler REST API üzerinden alınır; TanStack Query ile sunucu durumu yönetilir. Rotalar React Router ile, bildirimler React Toastify ile sağlanır.
+
+## Proje Linki
+
+[![Peyvdar](https://img.shields.io/badge/Website-peyvdar.com-0f5132?style=for-the-badge)](https://peyvdar.com)
